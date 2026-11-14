@@ -1,3 +1,3 @@
-# [Folder Name]
+# bastion
 
 Azure implementation screenshots and configuration evidence.
